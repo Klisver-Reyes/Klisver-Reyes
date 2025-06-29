@@ -10,8 +10,8 @@
 I am a Master’s student in Embedded Systems Engineering at IMT Atlantique. I have a strong background in hardware description languages (VHDL, Verilog, SystemVerilog) and FPGA development, as well as programming skills in C++, C, Python, and Matlab. My experience includes electronic circuit design, firmware development, and prototyping with microcontrollers such as ESP32.
 
 - 🧠 I’m currently deepening my expertise in FPGA prototyping, firmware development, printed circuit board (PCB) design, and embedded systems.
-- 💡 I’m looking forward to collaborate on projects related to embedded systems, FPGA design, and printed circuit board (PCB) design.
-- 🤗 Ask me about anything, I am happy to help<br>
+- 💡 I’m looking forward to collaborating on projects related to embedded systems, FPGA design, and printed circuit board (PCB) design.
+- 🤗 Ask me about anything, I am happy to help.<br>
 - Outside tech, 🙌 I enjoy contributing through volunteer activities, 🏃 jogging, 🎧 listening to music, and 📚 reading science books.
 - 📩 Reach out to me at: <a href="klisver.reyes-cabulo@imt-atlantique.net">klisver.reyes-cabulo@imt-atlantique.net</a>
 
