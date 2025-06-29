@@ -35,20 +35,3 @@ I am a Master’s student in Embedded Systems Engineering at IMT Atlantique. I h
   <img src="https://img.shields.io/badge/Proteus-008080?style=for-the-badge&logo=proteus&logoColor=white" alt="Proteus">
   <img src="https://img.shields.io/badge/PSpice-FFA500?style=for-the-badge&logo=pspice&logoColor=white" alt="PSpice">
 </span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/LabVIEW-FFBF00?style=for-the-badge&logo=labview&logoColor=white" alt="LabVIEW" />
-  <img src="https://img.shields.io/badge/SolidWorks-0072C6?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks" />
-  <img src="https://img.shields.io/badge/CorelDRAW-FF6600?style=for-the-badge" alt="CorelDRAW" />
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" alt="Inkscape" />
-  <img src="https://img.shields.io/badge/CodeWarrior-008000?style=for-the-badge" alt="CodeWarrior" />
-</span>
-
-
-<h2>Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=Klisver-Reyes&show_icons=true&theme=radical&hide_border=true&locale=en)](https://github.com/Klisver-Reyes)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Klisver-Reyes&theme=radical)](https://github.com/Klisver-Reyes)
-
-</div>
